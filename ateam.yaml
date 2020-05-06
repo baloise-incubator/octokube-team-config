@@ -1,0 +1,16 @@
+version: 0.1.0
+metadata:
+  name: ateam
+  displayName: A-Team
+spec:
+  applications:
+    - name: myapp
+      labels:
+        - "application"
+    - name: otherapp
+      labels:
+        - "application"
+    - name: aservice
+      labels:
+        - "service"
+    - name: something

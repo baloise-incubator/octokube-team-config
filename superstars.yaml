@@ -1,0 +1,18 @@
+version: 0.1.0
+metadata:
+  name: superstarts
+  displayName: Superstars
+spec:
+  applications:
+    - name: app1
+      labels:
+        - "application"
+    - name: app2
+      labels:
+        - "application"
+    - name: service1
+      labels:
+        - "service"
+    - name: service2
+      labels:
+        - "service"
